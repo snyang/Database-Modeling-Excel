@@ -1,2 +1,8 @@
 # Used by the build processes
 temp/
+
+# VBA Macro Form resource files
+*.frx
+
+# MS Office temporary files
+~$*.*
