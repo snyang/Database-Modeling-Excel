@@ -42,13 +42,13 @@ The user guide.
 - \src\tools\DBME_RunExcelMacro.vbs
 - \src\tools\Sample.bat
 
-- src\macro
-
-DO NOT change these files manually. These files are generated during builing, and just provide a way to know what we are changing in the spreadsheet.
-
 Small utilities for their DevOps processes.
 
 Includes commands to generate SQL script files from the database model excel.
+
+- src\macro
+
+DO NOT change these files manually. These files are generated during builing, and just provide a way to know what we are changing in the spreadsheet.
 
 ### Check out
 Please use the branch develop or a private branch to your developing
