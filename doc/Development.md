@@ -72,7 +72,7 @@ git push -u origin develop
 ## Publish to sourceforge.net
 
 Login yang_ning  
-goto the project:https://sourceforge.net/projects/db-model-excel  
+goto the project: https://sourceforge.net/projects/db-model-excel  
 Select menu Files  
 Go to folder "database modeling excel"  
 Add a new folder, e.g. 5.0.0 Production Release  
