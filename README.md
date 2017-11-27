@@ -9,15 +9,21 @@
 ## Project
 
 Name: Database Modeling Excel
+
 Current release: 7.0 Production Release
+
 Author: Yang Ning (Steven)
+
 Please send your email to [Steven Yang](steven_nyang@outlook.com) when you have any question.
+
 [Denote the Project](http://sourceforge.net/donate/index.php?group_id=171489)
 
 ### Description
 
 The database modeling utility is a Microsoft Office Excel workbook which can help you to design databases.
+
 It supports DB2, MariaDB, MySQL, Oracle, PostgreSQL, SQLite and SQL Server.
+
 In the workbook, you can define database, generate DDL scripts, and import database definition from existing databases.
 
 Why choose this as your database modeling utility?
