@@ -74,6 +74,10 @@ git checkout -b develop master
 git push -u origin develop
 ```
 
+### Download
+
+> Do not use the context menu to download the .zip file from GitHub, instead click the file link, and use the "Download" button to download the file.
+
 ## Publish to sourceforge.net
 
 Login yang_ning  
