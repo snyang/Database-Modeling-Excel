@@ -48,9 +48,10 @@ Includes commands to generate SQL script files from the database model excel.
 
 - src\macro
 
-DO NOT change these files manually. These files are generated during builing, and just provide a way to know what we changed in the spreadsheet.
+DO NOT change these files manually. These files are generated during building, and just provide a way to know what we changed in the spreadsheet.
 
 ### Check out
+
 Please use the branch develop or a private branch to your developing
 
 ```bat
