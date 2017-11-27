@@ -4,7 +4,7 @@
 
 [release]
 
-```
+```txt
 DB_Modeling_Excel_<version>.zip
 DB_Modeling_Excel\doc\Help.docx
 DB_Modeling_Excel\tools\DBME_CopyToFile.vbs
