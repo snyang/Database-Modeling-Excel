@@ -6,6 +6,10 @@
 
 ![screenshot](screenshot_table.png)
 
+## Download
+
+The tool is available at the [release](release) folder.
+
 ## Project
 
 Name: Database Modeling Excel
@@ -53,10 +57,6 @@ Database Modeling Excel can help you to design database schema.
   - Import database schema from database into the workbook
   - Support automatic build process
   - Fine print (A4 paper)
-
-## Release
-
-The tool is available at \release\.
 
 ## For Developers
 
