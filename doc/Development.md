@@ -4,13 +4,12 @@
 
 [release]
 DB_Modeling_Excel_<version>.zip
-DB_Modeling_Excel\DME_Template_*_<version>.xlsm
 DB_Modeling_Excel\doc\Help.docx
 DB_Modeling_Excel\tools\DBME_CopyToFile.vbs
 DB_Modeling_Excel\tools\DBME_RunExcelMacro.vbs
 DB_Modeling_Excel\tools\Sample.bat
 
-## Publish to github
+## Develop with github
 
 ### Source code
 
@@ -41,6 +40,13 @@ The user guide.
 Small utilities for their DevOps processes.
 Includes commands to generate SQL script files from the database model excel.
 
+### Check out
+Please use the branch develop or a private branch to your developing
+
+```bat
+git checkout -b develop master
+```
+
 ### Build and Publish
 
 - Finish your your changes and testing
@@ -52,6 +58,10 @@ Includes commands to generate SQL script files from the database model excel.
 - Build and Test
   Run DME_Template_*_<version>.xlsm's macro: basBuild.Build.
 - git commit and publish
+
+```bat
+git push -u origin develop
+```
 
 ## Publish to sourceforge.net
 

@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-[!screenshot](screenshot_table.png)
+![screenshot](screenshot_table.png)
 
 ## Project
 
@@ -52,5 +52,6 @@ Database Modeling Excel can help you to design database schema.
 
 The tool is available at \release\.
 
-## For Developer
+## For Developers
 
+Please see [Development.md](doc/Developement.md)
